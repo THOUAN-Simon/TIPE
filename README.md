@@ -1,9 +1,7 @@
 # TIPE
 TIPE is a project is a two-year project that students in preparatory classes must present as part of the admissions exam. It focuses on a specific topic (in this case, “Sports and Games”) and gives students a glimpse into the work of a reasercher. My TIPE was about game theory, searching an optimal strategy for the board game "blokus"
 
-# Game Theory & AI: Optimal Strategy for "Blokus"
-# TIPE Project (Scientific Research - Classe Préparatoire)
-
+# TIPE Project  - Optimal Strategy for "Blokus" (Game Theory & AI - Scientific Research - Classe Préparatoire)
 
 ## Overview
 This project focuses on the mathematical and computational analysis of the board game Blokus. The objective was to design and implement an algorithm capable of testing different strategy in the game, to see which one perform the best, using specific ideas (eg. control of territory, defense, ... etc) implemented as heuristic in a minimax algorithm.
