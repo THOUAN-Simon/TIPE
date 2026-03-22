@@ -26,7 +26,7 @@ Game Engine: Complete implementation of Blokus rules (piece placement, collision
 - Analysis: Testing the strategies some against others to measure win rates of each in different situations.
 
 ## Tech Stack
-Language: C
-Libraries: stdlib
+- Language: C
+- Libraries: stdlib
 
 
