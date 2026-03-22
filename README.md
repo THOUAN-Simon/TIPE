@@ -1,13 +1,16 @@
-#Game Theory & AI: Optimal Strategy for "Blokus"
-#TIPE Project (Scientific Research - Classe Préparatoire)
+# TIPE
+TIPE is a project is a two-year project that students in preparatory classes must present as part of the admissions exam. It focuses on a specific topic (in this case, “Sports and Games”) and gives students a glimpse into the work of a reasercher. My TIPE was about game theory, searching an optimal strategy for the board game "blokus"
+
+# Game Theory & AI: Optimal Strategy for "Blokus"
+# TIPE Project (Scientific Research - Classe Préparatoire)
 
 
-##Overview
+## Overview
 This project focuses on the mathematical and computational analysis of the board game Blokus. The objective was to design and implement an algorithm capable of testing different strategy in the game, to see which one perform the best, using specific ideas (eg. control of territory, defense, ... etc) implemented as heuristic in a minimax algorithm.
 
 Developed as part of my two-year intensive research project (TIPE) under the 2023-2024 theme: "Sports and Games".
 
-##Key Features
+## Key Features
 Game Engine: Complete implementation of Blokus rules (piece placement, collision detection, scoring).
 
 - Algorithms: Implementation of decision-making models (the objective was Minimax, Alpha-Beta Pruning)
@@ -16,7 +19,7 @@ Game Engine: Complete implementation of Blokus rules (piece placement, collision
 
 - Performance: Optimized move generation to handle the game's high branching factor.
 
-##Scientific Approach
+## Scientific Approach
 
 - Modeling: Abstracting the game board and pieces into efficient data structures.
   
@@ -24,6 +27,8 @@ Game Engine: Complete implementation of Blokus rules (piece placement, collision
 
 - Analysis: Testing the strategies some against others to measure win rates of each in different situations.
 
-##Tech Stack
+## Tech Stack
 Language: C
 Libraries: stdlib
+
+
